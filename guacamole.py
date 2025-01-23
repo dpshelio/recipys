@@ -1,5 +1,5 @@
 from fruits import avocado, lime
-from condiment import salt, olive_oil
+from condiment import salt, olive_oil, pepper
 
 def guacamole(people=1):
     bowl = avocado.peel().unseed() + lime.drop(2) + salt.pinch() + olive_oil.ts()
