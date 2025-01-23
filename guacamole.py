@@ -1,4 +1,4 @@
-from fruits import avocado, lime
+from fruits import avocado, lime, orange
 from condiment import salt, olive_oil, pepper
 
 def guacamole(people=1):
